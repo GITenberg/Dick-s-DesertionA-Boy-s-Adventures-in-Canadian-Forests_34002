@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '36632'
     url: http://www.gutenberg.org/2009/agents/36632
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34002#Dick-s-DesertionA-Boy-s-Adventures-in-Canadian-Forests
 gutenberg_issued: '2010-09-26'
 gutenberg_type: Text
 identifiers:
